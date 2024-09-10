@@ -44,7 +44,9 @@
 def hello_world():
     print("Hello, World!")
 ```
-Możesz tworzyć wykresy i osadzać je jako obrazy:
+
+#**cytaty z linkami**
+
+> "Markdown jest naprawdę świetny!" - [John Doe](https://example.com)
 
 
-![Wykres](link-do-wykresu.png)
