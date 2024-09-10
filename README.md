@@ -29,3 +29,7 @@
 
 > To jest cytat
 
+#**tworzenie list kontrolnych**
+
+- [x] Zrobione zadanie
+- [ ] Zadanie do zrobienia
