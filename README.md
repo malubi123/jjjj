@@ -44,3 +44,7 @@
 def hello_world():
     print("Hello, World!")
 ```
+<details>
+<summary>Kliknij tutaj, aby rozwinąć</summary>
+<p>Tekst ukryty w rozwijanym elemencie.</p>
+</details>
