@@ -4,3 +4,15 @@
 
 #**przycisk**
 [![Przycisk](https://img.shields.io/badge/Przycisk-Kliknij%20mnie-blue)](https://example.com)
+
+#**kolumny**
+| Nagłówek 1 | Nagłówek 2 |
+|------------|------------|
+| Komórka 1  | Komórka 2  |
+| Komórka 3  | Komórka 4  |
+
+#**letkie fragmęty kodu html**
+<details>
+<summary>Kliknij tutaj, aby rozwinąć</summary>
+<p>Tekst ukryty w rozwijanym elemencie.</p>
+</details>
