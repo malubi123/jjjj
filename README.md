@@ -42,13 +42,4 @@
 
 ```python
 def hello_world():
-    print("Hello, World!")
-
-
-
-
-#**korzystanie z języka yaml np po to by stworzyć wykres i osadzić go jako obraz**
-```markdown
-![Wykres](link-do-wykresu.png)
-
-
+    print("Hello, World!") ```
