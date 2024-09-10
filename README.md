@@ -43,3 +43,15 @@
 ```python
 def hello_world():
     print("Hello, World!")
+
+
+
+
+#**korzystanie z języka yaml np po to by stworzyć wykres i osadzić go jako obraz**
+
+Możesz tworzyć wykresy i osadzać je jako obrazy:
+
+```markdown
+![Wykres](link-do-wykresu.png)
+
+
