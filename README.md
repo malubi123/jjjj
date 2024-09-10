@@ -82,6 +82,7 @@ def hello_world():
 [^1]: Przypis lub adnotacja.]
 
 
-
+///////////////////////////////////////////////////////////////
+<iframe src="link-do-pdf.pdf" width="600" height="800"></iframe>
 
 
