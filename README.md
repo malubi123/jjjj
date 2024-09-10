@@ -16,3 +16,6 @@
 <summary>Kliknij tutaj, aby rozwinąć</summary>
 <p>Tekst ukryty w rozwijanym elemencie.</p>
 </details>
+
+#**oddnośnik do zakładek**
+[Przejdź do sekcji Instalacja](#instalacja)
