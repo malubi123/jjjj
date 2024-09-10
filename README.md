@@ -46,5 +46,5 @@ def hello_world():
 ```
 Możesz tworzyć wykresy i osadzać je jako obrazy:
 
-```markdown
+
 ![Wykres](link-do-wykresu.png)
