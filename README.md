@@ -37,3 +37,9 @@
 #**tworzenie badge’ów**
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
+
+
+```python
+def hello_world():
+    print("Hello, World!")
