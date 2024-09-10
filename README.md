@@ -82,6 +82,7 @@ Tekst główny[^1].
 [^1]: Przypis lub adnotacja.
 
 
-[Zobacz animowany PDF na stronie](https://example.com/animowany-pdf)
+<iframe src="link-do-pdf.pdf" width="600" height="800"></iframe>
+
 
 
