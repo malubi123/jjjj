@@ -1,4 +1,4 @@
-#**dodawanie anotacji**
+#**dodawanie przewijacza część 1**
 
 [Tekst główny[^1].
 [^1]: Przypis lub adnotacja.]
@@ -80,7 +80,7 @@ def hello_world():
 
 ![Alt Text](https://media.giphy.com/media/3o6Zt7v5b5FSCx0bnS/giphy.gif)
 
-#**dodawanie anotacji**
+#**dodawanie przewijacza część 2**
 
 [^1]: Przypis lub adnotacja.]
 
