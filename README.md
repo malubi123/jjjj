@@ -33,3 +33,7 @@
 
 - [x] Zrobione zadanie
 - [ ] Zadanie do zrobienia
+
+
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
