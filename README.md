@@ -44,7 +44,7 @@
 def hello_world():
     print("Hello, World!")
 ```
-<details>
-<summary>Kliknij tutaj, aby rozwinąć</summary>
-<p>Tekst ukryty w rozwijanym elemencie.</p>
-</details>
+Możesz tworzyć wykresy i osadzać je jako obrazy:
+
+```markdown
+![Wykres](link-do-wykresu.png)
