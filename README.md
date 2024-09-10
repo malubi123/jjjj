@@ -76,8 +76,11 @@ def hello_world():
 #**dodawanie anotacji**
 
 Tekst główny[^1].
-
 [^1]: Przypis lub adnotacja.
+
+
+
+
 
 #**dodawanie gifów**
 
