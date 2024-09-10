@@ -69,9 +69,9 @@ def hello_world():
 
 #**do kodu html dodawanie kolorowego tekstu**
 
-<pre style="background-color: #f0f0f0;">
-<code>console.log('Hello World');</code>
-</pre>
+```html
+<p style="color: red;">Ten tekst będzie czerwony.</p>
+
 
 #**dodawanie anotacji**
 
