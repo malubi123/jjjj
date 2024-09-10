@@ -69,7 +69,7 @@ def hello_world():
 
 #**do kodu html dodawanie kolorowego tekstu**
 
-```html
+
 <p style="color: red;">Ten tekst będzie czerwony.</p>
 
 
