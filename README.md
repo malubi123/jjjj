@@ -67,10 +67,10 @@ def hello_world():
 
 <u>Tekst z podkreśleniem</u>
 
-#**do kodu html dodawanie kolorowego tekstu**
+#**do kodu html dodawanie edytowanie tekstu**
 
 
-<p style="color: red;">red.</p>
+<p style="color: red;">   </p>
 
 
 #**dodawanie anotacji**
