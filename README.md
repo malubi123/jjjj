@@ -38,7 +38,7 @@
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
-
+#**osadzenie jako tekst skryptów w innych językach np pyton**
 
 ```python
 def hello_world():
