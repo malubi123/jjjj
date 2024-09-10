@@ -49,4 +49,37 @@ def hello_world():
 
 > "Markdown jest naprawdę świetny!" - [John Doe](https://example.com)
 
+#**tabela z linkami**
+
+| Nazwa       | Link        |
+|-------------|-------------|
+| GitHub       | [GitHub](https://github.com) |
+| Stack Overflow | [Stack Overflow](https://stackoverflow.com) |
+
+#**tabela z kolumnami**
+
+| Kolumna 1 | Kolumna 2         | Kolumna 3 |
+|-----------|-------------------|-----------|
+| Długa treść| Krótsza treść      | Krótkie   |
+| Długa treść| Dłuższa treść niż Kolumna 2 | Średnia   |
+
+#**podkreślony tekst**
+
+<u>Tekst z podkreśleniem</u>
+
+#**do kodu html dodawanie kolorowego tekstu**
+
+<pre style="background-color: #f0f0f0;">
+<code>console.log('Hello World');</code>
+</pre>
+
+#**dodawanie anotacji**
+
+Tekst główny[^1].
+
+[^1]: Przypis lub adnotacja.
+
+#**dodawanie gifów**
+
+![Alt Text](https://media.giphy.com/media/3o6Zt7v5b5FSCx0bnS/giphy.gif)
 
