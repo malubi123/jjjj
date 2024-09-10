@@ -72,17 +72,15 @@ def hello_world():
 
 <p style="color: red;">   </p>
 
+#**dodawanie gifów**
+
+![Alt Text](https://media.giphy.com/media/3o6Zt7v5b5FSCx0bnS/giphy.gif)
 
 #**dodawanie anotacji**
 
 Tekst główny[^1].
 [^1]: Przypis lub adnotacja.
-////////////////////////////////////////////////////////////////////
 
 
 
-
-#**dodawanie gifów**
-
-![Alt Text](https://media.giphy.com/media/3o6Zt7v5b5FSCx0bnS/giphy.gif)
 
